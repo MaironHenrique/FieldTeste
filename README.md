@@ -1,27 +1,49 @@
-# FieldControl
+## Envio de solução
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+Gostariamos de entender como você pensa e as decisões que você tomou durante o desenvolvimento, detalhe um pouco mais sobre:
 
-## Development server
+**Framework, linguagem e ferramentas**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Descreva ferramentas e bibliotecas (libraries, framework, tools etc) você usou.
+Utilizei Angular na criação
 
-## Code scaffolding
+**Técnologias X e Y**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Justifique porque você optou pela tecnologia X e não a Y?
+Utilizei Angular pois comecei um estudo de Angular na plataforma dio
 
-## Build
+**Princípios de software**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Quais princípios da engenharia de software que você usou?
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Desafios e problemas**
 
-## Running end-to-end tests
+Conte um pouco sobre os desafios e problemas que você enfrentou e como você resolveu.
+Meu maior desafio foi consiliar o tempo para conseguir estudar e desenvolver o projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**Melhorias e próximas implementações**
 
-## Further help
+O que você entende que pode ser melhorado e como isso pode ser feito?
+Para melhorar o projeto e devo estudar mais as tecnologias para conseguir desenvolver melhor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Sobre você**
+
+Queremos te conhecer um pouco melhor, conte um pouco sobre você.
+Meu nome é Mairon, tenho 27 anos e estou tentando entrar na area de desenvolvimento, não possuo experiencia na area mas tenho muita vontade de entrar, mesmo que se um estagio não remunerado ou algum bootcamp caso a emrpesa forneça, hoje em dia trabalho em uma empresa de transportes, e faço faculdade, por este motivo não consegui desenvolver bem, pela falta de tempo, mas acredito que se eu tiver uma oportunidade consiguirei me desenvolver bem
+
+Onde nasceu/De onde você é? Lugares que estudou, empresas que trabalhou, como você se envolveu com desenvolvimento de software.. enfim, Quem é você?
+Nasci em Olimpia-SP, hoje em dia moro em Guaraci-SP, mas também tenho residencia em São José do Rio preto, trabalhei em um imboliaria, uma fabrica de ventiladores e agora de auxiliar administrativo na JA Transportes
+
+**Outros detalhes**
+
+Se quiser enviar alguma informação adicional sobre o desafio..
+
+
+---
+
+Ah, deixe seu e-mail ou telefone para entrarmos em contato com você :) 
+mairon_fernandes13@hotmail.com
+17 991873740
+
+
