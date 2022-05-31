@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RepositorioService } from './field-control/repositorio.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FieldControl';
+
+  constructor(private repositorioService: RepositorioService)
+  {}
+  
+  
+  
 }
+
